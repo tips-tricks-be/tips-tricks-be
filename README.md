@@ -6,7 +6,7 @@ Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.yout
 
 ### 🧰 Vaardigheden
 ---
-! [tutorials] (https://github.com/tips-tricks-be/tips-tricks/blob/2ee8027e99166a270e2f19b4c212e86f49fa7ef5/Schermafbeelding%202026-06-17%20165626.png)
+![tips-tricks.be](https://github.com/8FManBelgium/tips-tricks/blob/b01a4a055025dad3220ee6ebea15297e2e870e21/Schermafbeelding%202026-06-17%20165626.png)
 ---
 
     ⭐⭐STEUN MIJ⭐⭐
