@@ -2,20 +2,19 @@
 
 **`photoshop,3ds max,ai,windows,watsapp,Websites`**
 
-Ik ben een ontwerper van allerlij softweare programmas [ludobausmans](https://www.youtube.com/@ludobausmans) (<!--SUBS-START-->283<!--SUBS-END--> abonnees).
+Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.youtube.com/@ludobausmans) (<!--SUBS-START-->283<!--SUBS-END--> abonnees).
 
-### 🧰 Languages and Tools
+### 🧰 Social Media Links
 
-![3DS MAX](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHOTOSHOP](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![AI](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![WINDOWS 11](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![WATSAPP](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![HTML](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS](https://img.shields.io/badge/tanstack-%23EF4444.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/convex-%23F3694C.svg?style=for-the-badge&logo=convex&logoColor=white)
 
-#
+  [![Coding with Mythos Fable 5 is actually insane.](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AiScript-Dark.svg)
+   [![Coding with Mythos Fable 5 is actually insane.](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AfterEffects.svg)
+
+
+
+  
+
+
 
 ### 📺 Latest YouTube Videos
 
