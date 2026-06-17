@@ -12,8 +12,12 @@ Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.yout
  ---
 [![YouTube](http://i.ytimg.com/vi/_NgOujRLIIg/hqdefault.jpg)](https://www.youtube.com/watch?v=_NgOujRLIIg)
 [![YouTube](http://i.ytimg.com/vi/QPBNZmm0U3I/hqdefault.jpg)](https://www.youtube.com/watch?v=QPBNZmm0U3I)
+-----
+[![YouTube](http://i.ytimg.com/vi/QlzZokiwohw/hqdefault.jpg)](https://www.youtube.com/watch?v=QlzZokiwohw)
+[![YouTube](http://i.ytimg.com/vi/dWUyvIB3DgM/hqdefault.jpg)](https://www.youtube.com/watch?v=dWUyvIB3DgM)
 
-https://youtu.be/QPBNZmm0U3I
+
+
 
 
     ⭐⭐STEUN MIJ⭐⭐
