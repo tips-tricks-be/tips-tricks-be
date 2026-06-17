@@ -8,6 +8,13 @@ Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.yout
 ---
 ![tips-tricks.be](https://github.com/8FManBelgium/tips-tricks/blob/b01a4a055025dad3220ee6ebea15297e2e870e21/Schermafbeelding%202026-06-17%20165626.png)
 ---
+ ⭐⭐POPULAIRSTE YOUTUBE VIDEO'S⭐⭐
+ ---
+[![YouTube](http://i.ytimg.com/vi/_NgOujRLIIg/hqdefault.jpg)](https://www.youtube.com/watch?v=_NgOujRLIIg)
+[![YouTube](http://i.ytimg.com/vi/QPBNZmm0U3I/hqdefault.jpg)](https://www.youtube.com/watch?v=QPBNZmm0U3I)
+
+https://youtu.be/QPBNZmm0U3I
+
 
     ⭐⭐STEUN MIJ⭐⭐
 
