@@ -4,11 +4,14 @@
 
 Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.youtube.com/@ludobausmans) (<!--SUBS-START-->283<!--SUBS-END--> abonnees).
 
-### 🧰 Social Media Links
+### 🧰 Vaardigheden
 
 
-  [![Coding with Mythos Fable 5 is actually insane.](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AiScript-Dark.svg)
-   [![Coding with Mythos Fable 5 is actually insane.](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AfterEffects.svg)
+  [![](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AiScript-Dark.svg)
+   [![](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AfterEffects.svg)
+    [![](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg)
+    [![](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg)
+    
 
 
 
