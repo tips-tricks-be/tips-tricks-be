@@ -2,7 +2,7 @@
 
 **`photoshop,3ds max,ai,windows,watsapp,Websites`**
 
-Ik ben een ontwerper van allerlij softweare programmas [ludobausmans][youtube] (<!--SUBS-START-->283<!--SUBS-END--> subscribers).
+Ik ben een ontwerper van allerlij softweare programmas [ludobausmans](https://www.youtube.com/@ludobausmans) (<!--SUBS-START-->283<!--SUBS-END--> abonnees).
 
 ### 🧰 Languages and Tools
 
