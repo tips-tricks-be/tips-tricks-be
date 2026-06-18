@@ -18,7 +18,7 @@ Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.yout
 [![youtube.](https://ytcards.demolab.com/?id=EcRV-P187CQ&title=Poster+Maken+in+Photoshop.background_color=%230d1117&title_color=%23ffffff&_ "tips-tricks.be")](https://www.youtube.com/watch?v=EcRV-P187CQ)
 [![youtube.](https://ytcards.demolab.com/?id=ITwyGTegfeo&title=Badkamer+In+3dsmax.background_color=%230d1117&title_color=%23ffffff&_ "Badkamer In 3dsmax.")](https://www.youtube.com/watch?v=ITwyGTegfeo)
 [![youtube.](https://ytcards.demolab.com/?id=BXg9l_Bl61U&title=Photoshop+uitgebrijde+tutorial.background_color=%230d1117&title_color=%23ffffff&_ "tips-tricks.be")](https://www.youtube.com/watch?v=BXg9l_Bl61U)
-[![youtube.](https://ytcards.demolab.com/?id=pD5jkUV4XCc&title=3dsmax+kastjes+Modelleren.background_color=%230d1117&title_color=%23ffffff&_ "tips-tricks.be")](https://www.youtube.com/watch?v=BpD5jkUV4XCc)
+[![youtube.](https://ytcards.demolab.com/?id=pD5jkUV4XCc&title=3dsmax+kastjes+Modelleren.background_color=%230d1117&title_color=%23ffffff&_ "tips-tricks.be")](https://www.youtube.com/watch?v=pD5jkUV4XCc)
 <!-- END YOUTUBE_CARDS -->
 
 
