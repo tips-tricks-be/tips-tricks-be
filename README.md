@@ -11,13 +11,14 @@ Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.yout
  ⭐⭐POPULAIRSTE YOUTUBE VIDEO'S⭐⭐
  ---
 [![YouTube](http://i.ytimg.com/vi/_NgOujRLIIg/hqdefault.jpg)](https://www.youtube.com/watch?v=_NgOujRLIIg)
-[![YouTube](http://i.ytimg.com/vi/QPBNZmm0U3I/hqdefault.jpg)](https://www.youtube.com/watch?v=QPBNZmm0U3I)
+
 -----
 
-
-[![YouTube](https://ytcards.demolab.com/?id=QlzZokiwohw&title=Paddestoel+met+Miniatuur+Generatie.background_color=%230d1117&title_color=%23ffffff&_ "Paddestoel miniatuur generatie.")](https://www.youtube.com/watch?v=dQlzZokiwohw)
-
-[![padestoel miniatuur.](https://ytcards.demolab.com/?id=dWUyvIB3DgM&title=Paddestoel+met+Miniatuur+Generatie.background_color=%230d1117&title_color=%23ffffff&_ "Paddestoel miniatuur generatie.")](https://www.youtube.com/watch?v=dWUyvIB3DgM)
+<!-- BEGIN YOUTUBE-CARDS -->
+[![YouTube](https://ytcards.demolab.com/?id=QlzZokiwohw&title=AI+Geneatie+muziek+video.background_color=%230d1117&title_color=%23ffffff&_ "AI muziek video.")](https://www.youtube.com/watch?v=dQlzZokiwohw)
+[![youtube.](https://ytcards.demolab.com/?id=dWUyvIB3DgM&title=Paddestoel+met+Miniatuur+Generatie.background_color=%230d1117&title_color=%23ffffff&_ "Paddestoel miniatuur generatie.")](https://www.youtube.com/watch?v=dWUyvIB3DgM)
+[![youtube.](https://ytcards.demolab.com/?id=QPBNZmm0U3I&title=Na+Update+Batterij+aanpassen.background_color=%230d1117&title_color=%23ffffff&_ "Na Update Batterij aanpassen.")](https://www.youtube.com/watch?v=dQPBNZmm0U3I)
+[![youtube.](https://ytcards.demolab.com/?id=NgOujRLIIg&title=Na+Update+Batterij+aanpassen.background_color=%230d1117&title_color=%23ffffff&_ "Na Update Batterij aanpassen.")](https://www.youtube.com/watch?v=NgOujRLIIg)
 
 
 
