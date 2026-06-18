@@ -21,8 +21,8 @@ Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.yout
 [![youtube.](https://ytcards.demolab.com/?id=pD5jkUV4XCc&title=3dsmax+kastjes+Modelleren.background_color=%230d1117&title_color=%23ffffff&_ "tips-tricks.be")](https://www.youtube.com/watch?v=BpD5jkUV4XCc)
 <!-- END YOUTUBE_CARDS -->
 ⭐⭐STEUN MIJ⭐⭐
-    --- Dank u alvast voor het bezoeken van mijn github page
-
+    --- 
+    Dank u alvast voor het bezoeken van mijn github page
     ---
 <a href="https://www.buymeacoffee.com/bausmans" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
