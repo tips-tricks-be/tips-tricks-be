@@ -20,10 +20,7 @@ Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.yout
 [![youtube.](https://ytcards.demolab.com/?id=BXg9l_Bl61U&title=Photoshop+uitgebrijde+tutorial.background_color=%230d1117&title_color=%23ffffff&_ "tips-tricks.be")](https://www.youtube.com/watch?v=BXg9l_Bl61U)
 [![youtube.](https://ytcards.demolab.com/?id=pD5jkUV4XCc&title=3dsmax+kastjes+Modelleren.background_color=%230d1117&title_color=%23ffffff&_ "tips-tricks.be")](https://www.youtube.com/watch?v=BpD5jkUV4XCc)
 <!-- END YOUTUBE_CARDS -->
-
-
-https://youtu.be/pD5jkUV4XCc
-    ⭐⭐STEUN MIJ⭐⭐
+⭐⭐STEUN MIJ⭐⭐
     --- Dank u alvast voor het bezoeken van mijn github page
 
     ---
