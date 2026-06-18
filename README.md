@@ -14,7 +14,7 @@ Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.yout
 [![YouTube](https://ytcards.demolab.com/?id=QlzZokiwohw&title=AI+Geneatie+muziek+video.background_color=%230d1117&title_color=%23ffffff&_ "AI muziek video.")](https://www.youtube.com/watch?v=dQlzZokiwohw)
 [![youtube.](https://ytcards.demolab.com/?id=dWUyvIB3DgM&title=Paddestoel+met+Miniatuur+Generatie.background_color=%230d1117&title_color=%23ffffff&_ "Paddestoel miniatuur generatie.")](https://www.youtube.com/watch?v=dWUyvIB3DgM)
 [![youtube.](https://ytcards.demolab.com/?id=QPBNZmm0U3I&title=Na+Update+Batterij+aanpassen.background_color=%230d1117&title_color=%23ffffff&_ "Na Update Batterij aanpassen.")](https://www.youtube.com/watch?v=dQPBNZmm0U3I)
-[![youtube.](https://ytcards.demolab.com/?id=_NgOujRLIIg&title=Na+Update+Batterij+aanpassen.background_color=%230d1117&title_color=%23ffffff&_ "Na Update Batterij aanpassen.")](https://www.youtube.com/watch?v=_NgOujRLIIg)
+[![youtube.](https://ytcards.demolab.com/?id=_NgOujRLIIg&title=AI+Van+Foto+Naar+Video.background_color=%230d1117&title_color=%23ffffff&_ "NAI Van Foto Naar Video.")](https://www.youtube.com/watch?v=_NgOujRLIIg)
 <!-- END YOUTUBE_CARDS -->
 
 
