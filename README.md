@@ -3,6 +3,7 @@
 **`photoshop,3ds max,ai,windows,watsapp,Websites`**
 
 Ik ben een ontwerper van allerlij software programmas [Youtube](https://www.youtube.com/@ludobausmans) (<!--SUBS-START-->283<!--SUBS-END--> abonnees--106video's).
+Neem eens een kijkje op mijn website [tips-tricks.be](https://tips-tricks.be)
 
 ### 🧰 Vaardigheden
 ---
